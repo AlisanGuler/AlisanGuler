@@ -5,8 +5,7 @@ I am a Front-End Developer prospect who is passionate about creating beautiful a
 - 👀 I'm currently learning:
   - React
   - JavaScript
-  - Node.js
-  - Express
+  - React Native
 
 - 🌱 I'm on the path to becoming a:
   - Front-End Developer

@@ -1,6 +1,6 @@
 # Hi, I'm @AlisanGuler 👋
 
-I am a Front-End Developer prospect who is passionate about creating beautiful and user-friendly web applications.
+I am a Front-End - React Developer who is passionate about creating beautiful and user-friendly web applications.
 
 - 👀 I'm currently learning:
   - React
